@@ -1,0 +1,16 @@
+{
+  "term": "2026_spring",
+  "course": "集積回路",
+  "lesson": "04",
+  "sources": [
+    {
+      "kind": "slides",
+      "original_name": "第4回集積回路20261016.pdf",
+      "raw_path": "data/raw/2026_spring/集積回路/04/slides/第4回集積回路20261016.pdf",
+      "sha256": "cb3bad8489c9c4297ad8d1960e7125c8109012f80f26bfc18a2655d2b973f0b2",
+      "bytes": 2094396,
+      "imported_at": "2026-11-13T02:23:43.618099+00:00",
+      "assignment_note": "PDF名の第4回・日付20261016に基づく。学期名はユーザー指定。"
+    }
+  ]
+}

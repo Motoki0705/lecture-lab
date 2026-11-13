@@ -1,0 +1,2 @@
+# The local reader uses Linux pidfd APIs, provided by the system Python build.
+python-preference = "only-system"

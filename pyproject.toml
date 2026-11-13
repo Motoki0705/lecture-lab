@@ -1,0 +1,27 @@
+[project]
+name = "lecture-lab"
+version = "0.1.0"
+description = "授業資料・音声から文字起こしと自分向けの学習資料を作る"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+  "pydantic>=2.10,<3", "pillow>=11,<13", "jsonschema>=4.23,<5",
+  "fastapi>=0.115,<1", "uvicorn>=0.34,<1", "pypdf>=5,<7",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8,<10",
+    "pytest-xdist>=3,<4",
+    "httpx>=0.28,<1",
+    "ruff>=0.12",
+    "pyyaml>=6,<7",
+]
+
+[tool.pytest.ini_options]
+pythonpath = [".", ".agents/ops", ".agents/ops/lib"]
+testpaths = ["tests"]
+markers = ["unit: isolated contracts", "integration: local integration"]
+
+[tool.ruff]
+target-version = "py312"
+line-length = 100

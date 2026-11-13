@@ -1,0 +1,25 @@
+{
+  "term": "2026_spring",
+  "course": "集積回路",
+  "lesson": "01",
+  "sources": [
+    {
+      "kind": "slides",
+      "original_name": "第1回集積回路20260925.pdf",
+      "raw_path": "data/raw/2026_spring/集積回路/01/slides/第1回集積回路20260925.pdf",
+      "sha256": "b958c3224215e0435398fd1577dcf414ee4ce168141b0407064b0a1ca8897acc",
+      "bytes": 4548318,
+      "imported_at": "2026-11-13T02:23:43.390420+00:00",
+      "assignment_note": "PDF名の第1回・日付20260925に基づく。学期名はユーザー指定。"
+    },
+    {
+      "kind": "audio",
+      "original_name": "集積回路1.m4a",
+      "raw_path": "data/raw/2026_spring/集積回路/01/audio/集積回路1.m4a",
+      "sha256": "7fcf8623cf9cf945ecbddeff47f63b7065746936f1e53a4dd449299ce9b1c76e",
+      "bytes": 117079302,
+      "imported_at": "2026-11-13T02:23:47.448837+00:00",
+      "assignment_note": "埋め込みcreation_timeの日付が第1回PDFの日付20260925と一致。内容による対応確認は未実施。"
+    }
+  ]
+}

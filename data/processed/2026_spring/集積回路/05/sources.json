@@ -1,0 +1,16 @@
+{
+  "term": "2026_spring",
+  "course": "集積回路",
+  "lesson": "05",
+  "sources": [
+    {
+      "kind": "slides",
+      "original_name": "第5回集積回路20261023.pdf",
+      "raw_path": "data/raw/2026_spring/集積回路/05/slides/第5回集積回路20261023.pdf",
+      "sha256": "33435a97464b3742394d0cd051b00074072ea59f4f3b01943966ea68b617045c",
+      "bytes": 2972743,
+      "imported_at": "2026-11-13T02:23:43.720294+00:00",
+      "assignment_note": "PDF名の第5回・日付20261023に基づく。学期名はユーザー指定。"
+    }
+  ]
+}
